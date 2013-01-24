@@ -26,6 +26,7 @@
 	}
 	
 	#menu ul li {
+	  text-align:center;
 	  list-style-type: square;
 	  padding-top: 5px;
 	  padding-bottom: 5px;
