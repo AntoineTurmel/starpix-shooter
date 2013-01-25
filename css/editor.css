@@ -32,7 +32,7 @@ h2{
 }
 
 #container{
-    width:1000px;
+    width:1070px;
 }
 
 #left{
@@ -51,7 +51,7 @@ h2{
 
 #right{
     float:right;
-    width:530px;
+    width:600px;
 }
 
 #ssname{
@@ -114,5 +114,6 @@ h2{
 
 #editormain{
     height: 575px;
+	line-height:0px;
     background-color:#D0C0C0;
 }
