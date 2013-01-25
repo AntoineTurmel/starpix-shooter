@@ -32,3 +32,7 @@ footer {
   padding-top: 5px;
   padding-bottom: 5px;
 }
+
+#menu a {
+  color: white;
+}
