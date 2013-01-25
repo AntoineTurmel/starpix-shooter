@@ -15,11 +15,13 @@
     }
 	
 	footer {
+		text-align:center;
 	  font-family:zelda;
 	  font-size:12px;
 	}
 	
 	#menu {
+	  text-align:center;
 	  font-family:zelda;
 	  font-size:24px;
 	}
